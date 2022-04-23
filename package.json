@@ -1,0 +1,16 @@
+{
+  "name": "screencast",
+  "version": "1.0.0",
+  "description": "screen casting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^13.6.0",
+    "typescript": "^4.6.3",
+    "videoshow": "^0.1.12"
+  }
+}
