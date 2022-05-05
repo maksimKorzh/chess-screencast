@@ -1,0 +1,15 @@
+{
+  "name": "screencast",
+  "version": "1.0.0",
+  "description": "chess video maker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^13.7.0",
+    "puppeteer-video-recorder": "^1.0.5"
+  }
+}
