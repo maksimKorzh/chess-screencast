@@ -34,7 +34,9 @@ function delay(milliseconds){
   // capture video
   for (let i = 0; i < 30; i++) { // move number
     await delay(500);
-    await page.keyboard.press('ArrowRight');
+    
+    await document.querySelector('span[class="game-controls-secondary-button-icon icon-font-chess chevron-right"]').click();
+    //await page.keyboard.press('ArrowRight');
     await delay(500);
     console.log('recording move ' + (i + 1));
   }
