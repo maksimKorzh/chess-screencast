@@ -1,0 +1,4 @@
+For example game is here: https://www.chess.com/analysis/game/live/43016372651
+JSON blob is here: https://www.chess.com/callback/analysis/game/live/43016372651/all
+
+
